@@ -13,6 +13,8 @@ public class Main {
 		
 		double dolar,tax;
 		
+		System.out.println("Good morning!");
+		
 		System.out.print("What is the dollar price? ");
 		tax = sc.nextDouble();
 		System.out.print("How many dollars will be bought? ");
